@@ -1,2 +1,2 @@
-# cachyos-hyprconfig-extra
-Extra things for my CachyOS config
+# CachyOS Hyprconfig: Extra
+Extra things for my [CachyOS config](https://github.com/tobe-core/cachyos-hyprconfig)
